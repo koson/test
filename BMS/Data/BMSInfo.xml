@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<BMSInfo>
+  <BMS>
+    <COM>COM4</COM>
+    <ID>0x00</ID>
+    <Name>영번</Name>
+    <Contact1>fuse</Contact1>
+    <Contact2>input volt</Contact2>
+    <Contact3>null</Contact3>
+    <Contact4>null</Contact4>
+  </BMS>
+  <BMS>
+    <COM>COM4</COM>
+    <ID>0x02</ID>
+    <Name>이번</Name>
+    <Contact1>null</Contact1>
+    <Contact2>null</Contact2>
+    <Contact3>null</Contact3>
+    <Contact4>null</Contact4>
+  </BMS>
+  <BMS>
+    <COM>COM4</COM>
+    <ID>0x03</ID>
+    <Name>테스트3</Name>
+    <Contact1>null</Contact1>
+    <Contact2>null</Contact2>
+    <Contact3>접점3</Contact3>
+    <Contact4>null</Contact4>
+  </BMS>
+</BMSInfo>

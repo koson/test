@@ -1,0 +1,4 @@
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache

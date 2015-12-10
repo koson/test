@@ -1,0 +1,17 @@
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.csprojResolveAssemblyReference.cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Common.ErrorTaskBar.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Common.TaskBar.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Controls.LoadErrorBackUpControl.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Controls.LoadBackUpControl.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Controls.tabPageControl.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.ErrorStatusSet.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Demo.Form1.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Line.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.LoadBackUp.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.MachineSet.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.MainForm.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.RealTimeGraph.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Forms.SetupGraph.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.csproj.GenerateResource.Cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\BMS\obj\Release\BetteryMonitoringSystem.exe.licenses

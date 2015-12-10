@@ -1,0 +1,13 @@
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\bin\x86\Release\SerialPort Terminal.exe.config
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\bin\x86\Release\SerialPort Terminal.exe.manifest
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\bin\x86\Release\SerialPort Terminal.application
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\bin\x86\Release\SerialPort Terminal.exe
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\bin\x86\Release\SerialPort Terminal.pdb
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPortTerminal.frmAbout.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPortTerminal.frmTerminal.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPortTerminal.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPort Terminal.exe.manifest
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPort Terminal.application
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPort Terminal.exe
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\SerialPortTerminal(read_writeI)\obj\x86\Release\SerialPort Terminal.pdb

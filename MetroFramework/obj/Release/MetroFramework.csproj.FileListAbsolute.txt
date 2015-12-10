@@ -1,0 +1,5 @@
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Release\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Release\MetroFramework.Controls.MetroGrid.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Release\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Release\MetroFramework.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\BMS.Manager\MetroFramework\obj\Release\MetroFramework.csproj.GenerateResource.Cache

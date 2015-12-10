@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<LineInfo>
+  <LINE>
+    <COM>COM4</COM>
+    <BaudRate>19200</BaudRate>
+    <LineName>BMS#1</LineName>
+    <Interval>60</Interval>
+  </LINE>
+</LineInfo>

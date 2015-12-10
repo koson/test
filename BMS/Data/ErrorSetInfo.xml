@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<ErrorSetInfo>
+  <ERRORSET Com="COM1" Id="0x01">
+    <VOLT Status="None" Enable="Enable" UpperLimit="600" LowLimit="70">
+    </VOLT>
+    <CURRENT Status="None" Enable="Enable" UpperLimit="4000" LowLimit="70">
+    </CURRENT>
+    <TEMP1 Status="None" Enable="Enable" UpperLimit="40.0" LowLimit="70">
+    </TEMP1>
+    <TEMP2 Status="None" Enable="Enable" UpperLimit="41.0" LowLimit="70">
+    </TEMP2>
+    <TEMP3 Status="None" Enable="Enable" UpperLimit="42.0" LowLimit="70">
+    </TEMP3>
+    <TEMP4 Status="None" Enable="Enable" UpperLimit="43.0" LowLimit="70">
+    </TEMP4>
+    <TEMP5 Status="InRange" Enable="Enable" UpperLimit="44.0" LowLimit="70">
+    </TEMP5>
+    <TEMP6 Status="None" Enable="Enable" UpperLimit="45.0" LowLimit="70">
+    </TEMP6>
+  </ERRORSET>
+  <ERRORSET Com="COM2" Id="0x00">
+    <VOLT Status="None" Enable="Enable" UpperLimit="600" LowLimit="70">
+    </VOLT>
+    <CURRENT Status="None" Enable="Enable" UpperLimit="4000" LowLimit="70">
+    </CURRENT>
+    <TEMP1 Status="None" Enable="Enable" UpperLimit="40.0" LowLimit="70">
+    </TEMP1>
+    <TEMP2 Status="None" Enable="Enable" UpperLimit="41.0" LowLimit="70">
+    </TEMP2>
+    <TEMP3 Status="None" Enable="Enable" UpperLimit="42.0" LowLimit="70">
+    </TEMP3>
+    <TEMP4 Status="None" Enable="Enable" UpperLimit="43.0" LowLimit="70">
+    </TEMP4>
+    <TEMP5 Status="InRange" Enable="Enable" UpperLimit="44.0" LowLimit="70">
+    </TEMP5>
+    <TEMP6 Status="None" Enable="Enable" UpperLimit="45.0" LowLimit="70">
+    </TEMP6>
+  </ERRORSET>
+  <ERRORSET Com="COM3" Id="0x00">
+    <VOLT Status="None" Enable="Enable" UpperLimit="600" LowLimit="70">
+    </VOLT>
+    <CURRENT Status="None" Enable="Enable" UpperLimit="4000" LowLimit="70">
+    </CURRENT>
+    <TEMP1 Status="None" Enable="Enable" UpperLimit="40.0" LowLimit="70">
+    </TEMP1>
+    <TEMP2 Status="None" Enable="Enable" UpperLimit="41.0" LowLimit="70">
+    </TEMP2>
+    <TEMP3 Status="None" Enable="Enable" UpperLimit="42.0" LowLimit="70">
+    </TEMP3>
+    <TEMP4 Status="None" Enable="Enable" UpperLimit="43.0" LowLimit="70">
+    </TEMP4>
+    <TEMP5 Status="InRange" Enable="Enable" UpperLimit="44.0" LowLimit="70">
+    </TEMP5>
+    <TEMP6 Status="None" Enable="Enable" UpperLimit="45.0" LowLimit="70">
+    </TEMP6>
+  </ERRORSET>
+</ErrorSetInfo>
